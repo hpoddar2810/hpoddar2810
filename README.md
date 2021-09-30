@@ -1,5 +1,22 @@
-### Hi there 👋
+### Hi there 👋😊
 
+I am Harsh Poddar, a passionate self-taught Machine Learning Engineer. I'm currently working at Quantiphi Analytics as an Machine Learning Engineer Intern.
+
+* 🔍 looking for collaborater, Ping me :))
+* 💼 any freelance work? do reach, email :)
+* 💬 ask me about anything, I am happy to help;
+
+<img src="https://raw.githubusercontent.com/hpoddar2810/hpoddar2810/master/code.gif" width="500px">
+
+languages and tools:
+
+
+<code><img height="20" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png"></code>
+<code><img height="20" src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5iGzq-I5iAvL0PNYybQULvb3CaegZeS0BIJqa1QLyZnrmRSBFeu15ur5PptWUlE--N3k&usqp=CAU"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+[Linkedin](www.linkedin.com/in/harsh-poddar) • [Kaggle](https://www.kaggle.com/hpoddar2810/)
 <!--
 **hpoddar2810/hpoddar2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
