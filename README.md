@@ -1,6 +1,6 @@
 ### Hi there 👋😊
 
-I am Harsh Poddar, a passionate self-taught Machine Learning Engineer from India. I'm currently working at Quantiphi Analytics as an Machine Learning Engineer Intern.
+I am Harsh Poddar, a passionate self-taught Machine Learning Engineer from India. I'm currently working at Quantiphi Analytics as an Machine Learning Engineer. I have a undergraduate degree in Biotechnology from IIT Roorkee.
 
 <img src="https://raw.githubusercontent.com/hpoddar2810/hpoddar2810/master/code.gif" width="400px" align="right">
 
